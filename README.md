@@ -34,8 +34,9 @@ I am an aspiring cybersecurity professional based in New York City, building han
 
 ### Featured Work
 
-- 🛡️ [Hack The Box Security Reports](https://github.com/moe515/HTB-Reports) — Structured reports covering enumeration, exploitation, evidence, and lessons learned
-- 🧾 More SOC investigations, detection labs, and network-analysis projects coming soon
+- 🛡️ [SOC Level 1 Portfolio](https://github.com/moe515/soc-level-1-portfolio) — Alert triage, investigation workflows, Five Ws reporting, and incident escalation
+- 🔎 [Cybersecurity Portfolio](https://github.com/moe515/Cybersecurity-Portfolio) — SIEM, IDS, incident response, network analysis, Linux, SQL, and Python security labs
+- 💻 [Hack The Box Security Reports](https://github.com/moe515/HTB-Reports) — Authorized penetration-testing labs covering enumeration, exploitation, and security reporting
 
 ### Current Focus
 
