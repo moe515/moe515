@@ -37,7 +37,7 @@ I am a cybersecurity analyst focused on security operations, alert triage, incid
 - 🛡️ [SOC Level 1 Portfolio](https://github.com/moe515/soc-level-1-portfolio) — Alert triage, investigation workflows, Five Ws reporting, SIEM fundamentals, and incident escalation
 - 🔎 [Cybersecurity Portfolio](https://github.com/moe515/Cybersecurity-Portfolio) — SIEM, IDS, incident response, network analysis, Linux, SQL, and Python security labs
 - 💻 [Hack The Box Security Reports](https://github.com/moe515/HTB-Reports) — Authorized security labs covering enumeration, findings, remediation, defensive detection notes, and technical reporting
-- ⚔️ [TryHackMe Write-up: Guided Pentest: Web](https://github.com/moe515/Cybersecurity-Portfolio/tree/main/Penetration-Testing/TryHackMe/Guided-Pentest-Web) — Web app pentest from recon to RCE: IDOR, weak password reset, upload filter bypass, and reverse shell
+- ⚔️ [Jr Penetration Tester Portfolio](https://github.com/moe515/jr-penetration-tester-portfolio) — TryHackMe Jr Penetration Tester write-ups: recon, IDOR, authentication flaws, upload bypass, RCE, and pentest reporting
 
 ### Certification & Current Focus
 
