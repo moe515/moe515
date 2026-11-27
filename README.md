@@ -1,16 +1,17 @@
 # Hi, I'm Moe 👋
 
-## Entry-Level SOC Analyst | Cybersecurity Analyst
+## SOC Analyst | Aspiring Penetration Tester
 
-I am an aspiring cybersecurity analyst focused on security operations, alert triage, incident response, threat detection, and network analysis. I hold the Google Cybersecurity Professional Certificate and build hands-on skills through structured labs and portfolio projects.
+I am a cybersecurity analyst focused on security operations, alert triage, incident response, and threat detection, and I am building offensive skills toward penetration testing and red teaming. I hold the Google Cybersecurity Professional Certificate and build hands-on skills through structured labs and portfolio projects.
 
 ### About Me
 
 - 🔐 Focused on SOC analysis, threat detection, incident response, and security monitoring
 - 🧪 Building practical skills through TryHackMe, Hack The Box, and security labs
 - 📊 Practicing SIEM investigation, Windows event-log analysis, and network traffic analysis
+- ⚔️ Practicing web application penetration testing: recon, IDOR, authentication flaws, file upload bypass, and RCE
 - 📝 Documenting labs and security findings as professional-style reports
-- 🎯 Targeting entry-level SOC Analyst / Cybersecurity Analyst roles
+- 🎯 Targeting entry-level SOC Analyst, Cybersecurity Analyst, and Junior Penetration Tester roles
 
 ### Technical Skills
 
@@ -43,6 +44,7 @@ I am an aspiring cybersecurity analyst focused on security operations, alert tri
 - ✅ Google Cybersecurity Professional Certificate
 - 📚 CompTIA Security+ (SY0-701) — Currently preparing
 - 🛡️ SOC Level 1 skills and hands-on labs
+- ⚔️ TryHackMe Jr Penetration Tester path
 - 🔍 Incident response, threat hunting, and network traffic analysis
 - 📝 Professional security reporting
 
